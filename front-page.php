@@ -6,7 +6,7 @@
 </head>
 
 <body>
-  <?php get_template_part("includes/header"); ?>
+  <?php get_template_part("templates/header"); ?>
   <div class="l-wrapper">
     <div class="l-home-top">
       <div class="p-home-visual">
@@ -185,11 +185,9 @@
         </div>
       </section>
     </main>
-
-    <section class="p-index-contact"></section>
   </div>
 
-
+  <?php get_template_directory_uri("templates/index-contact") ?>
   <?php get_footer(); ?>
 </body>
 

@@ -1,0 +1,1 @@
+{"version":3,"file":"./css/style.css","mappings":"AAAA,KACE,WAEA,QACE,W","sources":["webpack://portfolio/./src/scss/style.scss"],"sourcesContent":["body {\n  color: #222;\n\n  h1 {\n    color: #333;\n  }\n}"],"names":[],"sourceRoot":""}

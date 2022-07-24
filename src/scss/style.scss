@@ -1,7 +1,10 @@
-body {
-  color: #222;
+// foundation
+@use "./foundation/reset";
+@use "./foundation/variables";
+@use "./foundation/mixin";
+@use "./foundation/base";
 
-  h1 {
-    color: #333;
-  }
-}
+// layout
+@use "./layout/container";
+
+// project

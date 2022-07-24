@@ -5,16 +5,16 @@
     <nav class="p-header__nav">
       <ul class="p-header__nav-list">
         <li class="p-header__nav-item">
-          <a href=""></a>
+          <a href="<?php echo esc_url(home_url("/about")) ?>">About</a>
         </li>
         <li class="p-header__nav-item">
-          <a href=""></a>
+          <a href="">Works</a>
         </li>
         <li class="p-header__nav-item">
-          <a href=""></a>
+          <a href="">Blogs</a>
         </li>
         <li class="p-header__nav-item">
-          <a href=""></a>
+          <a href="">Contact</a>
         </li>
       </ul>
     </nav>

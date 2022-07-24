@@ -7,7 +7,7 @@
 
 <body>
   <?php get_template_part("templates/header"); ?>
-  <div class="l-wrapper">
+  <div class="l-wrapper__top">
     <div class="l-home-top">
       <div class="p-home-visual">
         <div class="l-container">
